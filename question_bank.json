@@ -1,0 +1,48 @@
+**Theory of Computation Question Bank for Graduate Students**
+
+This question bank contains 30 questions categorized by weightage (2, 3, and 5), reflecting the expected depth of answer required.  Diagrams are encouraged where appropriate to illustrate concepts.
+
+
+**Weightage 2 (2-page answer):**
+
+1.  Explain the Church-Turing thesis and its significance in the context of computability.
+2.  Compare and contrast deterministic finite automata (DFA) and non-deterministic finite automata (NFA). Provide examples.
+3.  Describe the pumping lemma for regular languages. Use it to prove that L = {a<sup>n</sup>b<sup>n</sup> | n ≥ 0} is not a regular language.
+4.  Explain the concept of closure properties of regular languages.  Give examples of operations that preserve regularity.
+5.  Discuss the limitations of finite automata.  Why are they insufficient for recognizing more complex languages?
+6.  Describe the construction of a pushdown automaton (PDA) that accepts a context-free language of your choice.  Explain its operation.
+7.  Explain the concept of ambiguity in context-free grammars.  Provide an example of an ambiguous grammar and show how to resolve the ambiguity.
+8.  Compare and contrast context-free grammars (CFG) and regular grammars.  Illustrate with examples.
+9.  What are Turing machines? Explain their components and how they work using a simple example.
+10. Explain the halting problem and its implications for computability theory.
+
+
+**Weightage 3 (3-page answer):**
+
+11. Prove that the language L = {ww<sup>R</sup> | w ∈ {0, 1}*} (palindromes) is a context-free language. Construct a CFG and a PDA for it.  Explain your approach.
+12. Describe the Myhill-Nerode theorem and its use in determining the minimality of a DFA. Provide an example.
+13. Discuss Rice's Theorem and its importance in understanding undecidable problems. Give examples of undecidable properties of programs.
+14. Explain the concept of reducibility in computability theory.  Illustrate with an example of reducing one undecidable problem to another.
+15. Compare and contrast recursive and recursively enumerable languages.  Give examples of each.
+16. Describe different techniques for proving languages are not context-free (beyond the pumping lemma).
+17. Discuss the complexities associated with parsing context-free grammars (e.g., CYK algorithm).
+18. Describe the relationship between context-free languages and pushdown automata.  Explain the equivalence proof.
+19. Explain the concept of a Turing-recognizable language and its relation to recursively enumerable languages.
+20. Discuss the limitations of context-free grammars and why they are insufficient for representing all computable languages.
+
+
+**Weightage 5 (5-page answer):**
+
+21.  Develop a detailed explanation of the Post Correspondence Problem (PCP) and prove its undecidability. Discuss its implications.
+22.  Provide a comprehensive comparison of different complexity classes (e.g., P, NP, NP-complete, NP-hard). Discuss the P vs. NP problem and its significance.  Include relevant examples.
+23.  Explain the concept of non-deterministic polynomial time (NP) and discuss the significance of NP-complete problems.  Give examples and explain the implications for algorithm design.
+24.  Discuss the different types of reductions used in complexity theory (e.g., polynomial-time reduction, many-one reduction). Explain their role in classifying problems.
+25.  Describe the Cook-Levin theorem and its importance in establishing the existence of NP-complete problems.  Explain the proof sketch.
+26.  Explore advanced topics in automata theory, such as ω-automata or Büchi automata, and their applications in model checking or verification.
+27.  Compare and contrast different approaches to solving the halting problem, focusing on the limitations and the reasons for its undecidability.
+28.  Discuss the applications of Theory of Computation in areas such as compiler design, program verification, and cryptography.
+29.  Analyze a complex computational problem (e.g., graph isomorphism) from the perspective of its computational complexity and potential algorithmic solutions.
+30.  Develop a detailed comparison of different parsing techniques for context-free grammars (e.g., LL(1), LR(1), Earley's algorithm), comparing their efficiency and capabilities. Include diagrams illustrating the parsing process for each technique.
+
+
+This question bank provides a comprehensive range of questions to assess graduate students' understanding of the Theory of Computation.  The weightage system ensures that the difficulty and expected depth of the answer align with the allocated marks.  Remember to include relevant diagrams where appropriate to enhance understanding and illustrate key concepts.
